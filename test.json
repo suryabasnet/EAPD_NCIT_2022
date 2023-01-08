@@ -1,0 +1,40 @@
+{
+	"users":
+	[
+		{
+			"firstName":"Ram",
+			"lastName":"Thapa",
+			"age":20
+		},
+		{
+		"firstName":"Shyam",
+		"lastName":"shrestha",
+		"age":40
+		"hobbies":["reading","writing"],
+		"friends":
+		[
+		{
+		"firstName":"Hari",
+		"lastName":"Maharjan"
+		}
+		
+		]
+		
+	],
+	"subject":
+	[
+	{
+	"name":"Rita",
+	"id":1
+	},
+	{
+	"name":"sita",
+	"id":2
+		
+	}
+	
+	]
+
+
+
+}

@@ -1,0 +1,110 @@
+Advanced java
+--------------
+https://www.youtube.com/watch?v=Ae-r8hsbPUo
+java EAPD
+----------
+https://bootify.io/pricing.html
+https://javaee.github.io/tutorial/overview001.html#A1046550
+https://www.slideshare.net/ejlp12/java-ee-introduction
+patterns of enterprise application 
+https://www.slideshare.net/ChinhNguyen49/patterns-of-enterprise-application-architecture-59148245
+
+EJB
+---
+https://www.slideshare.net/emprovise/21-ejb3-introduction
+https://www.youtube.com/c/LearningProgramming/playlists
+https://www.slideshare.net/ArmenArzumanyan/lec12-35956715
+https://www.slideshare.net/ReturnOnIntelligence/introduction-to-ejb
+1. https://docs.oracle.com/javaee/6/tutorial/doc/
+https://www.youtube.com/watch?v=Sd-2zG5L6t4
+
+Unit 4 web application architecture 
+------------------------------------
+https://www.slideshare.net/cchamnap/introduction-to-web-architecture
+
+https://gyires.inf.unideb.hu/GyBITT/08/ch04.html
+https://www.slideshare.net/kindblad/layered-software-architecture
+
+
+Spring Boot
+-------------
+https://www.javainuse.com/spring/SpringBoot_DataJPA
+
+https://www.javainuse.com/spring/sprboot
+
+Spring Boot Restful Web Services Tutorial | Full Course ✅ | REST API | Spring Boot for Beginners
+--------------------------------------------------------------------------------------------------
+https://www.youtube.com/playlist?list=PL1oBBulPlvs84AmRmT-_3dGz4KHYuINsj
+https://www.youtube.com/watch?v=th3uIP7D8nk
+https://spring.io/guides/tutorials/rest/
+
+Spring Boot Security 
+--------------------
+https://www.youtube.com/watch?v=L9oWG6aj_U8
+
+
+
+WEb Services
+-------------------
+
+xml: https://www.slideshare.net/mukeshnt/xml-3657379
+https://www.slideshare.net/neilghosh/intro-to-web-services
+https://www.youtube.com/watch?v=oTzNRv6X51o&list=PLhW3qG5bs-L9E2KV6vVdB-YTk-sRxmRAB
+https://www.youtube.com/channel/UCoqdPiyEGeZwlwfn-x-NtzQ/playlists
+https://www.youtube.com/watch?v=5wnw5YDKJqo
+https://www.youtube.com/watch?v=99mxjnzR3Tc
+https://www.slideshare.net/PeterREgli/soap-wsdl-uddi
+
+JSON
+----- 
+https://www.slideshare.net/krishnapriyam/json-68387145
+
+https://www.youtube.com/watch?v=9t3vMi95z2w&list=PLhW3qG5bs-L992N-g4IgeNirZ1KY5WrkO
+
+
+creating API
+-------------
+
+https://stackabuse.com/build-a-spring-boot-rest-api-with-java-full-guide/
+https://projectworlds.in/python-projects-with-source-code/
+https://projectworlds.in/python-projects-with-source-code/contact-management-system-in-python/
+https://itsourcecode.com/free-projects/python-projects/online-medical-management-system-project-in-django-with-source-code/
+
+Dependency Injection
+--------------------
+
+CDI
+https://www.baeldung.com/java-ee-cdi
+Shopping Cart
+https://www.youtube.com/watch?v=vMQQoRvxAvw
+
+
+devops
+-------
+https://www.javaguides.net/2021/10/spring-boot-react-full-stack-web-development-tutorial.html
+https://www.youtube.com/watch?v=Ad9xdHMsGxo&list=PLK4Lw8AJ60B3hLd8pm2aJ5ZFr4Vk22j74
+
+https://www.youtube.com/watch?v=ux8_tplG5B0&list=PLbtI3_MArDOlnBkBS-O04_YNIaZG4yetn&index=3
+
+https://www.youtube.com/@JavaInUse/playlists
+https://www.youtube.com/watch?v=EHDlebVv6zw
+
+API Testing
+------------
+https://www.youtube.com/watch?v=VIofwKpTOK8&list=PLhW3qG5bs-L90bZ8rru90WYxzTqtl9GMM&index=3
+
+Agile JIRA
+------------
+TDD
+https://tanzu.vmware.com/content/springone-platform-2017/test-driven-development-with-spring-boot-sannidhi-jalukar-madhura-bhave
+
+https://www.youtube.com/watch?v=GWxMTvRGIpc
+
+https://www.youtube.com/watch?v=XPqOqWw0d0c&list=PLtdgW7favH5FxfhD4j7FKb40hlz3TPc59
+https://bootify.io/pricing.html
+
+Full Stack Project Link
+-------------------------
+1. https://developers.amadeus.com/blog/flight-booking-application-java-spring-react-1
+2. https://developers.amadeus.com/blog/flight-booking-application-java-spring-react-2
+

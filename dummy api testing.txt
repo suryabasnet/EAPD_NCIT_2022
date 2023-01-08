@@ -1,0 +1,77 @@
+How to test API with CURL
+just google curl 
+curl is an online tools 
+https://curl.se/
+
+ and go to git prompt
+in git prompt
+curl --help
+curl http://google.com
+curl -L http://google.com
+clear
+search web site 
+sample rest api 
+https://reqres.in/
+https://reqres.in/api/users/2
+curl https://reqres.in/api/users/2
+curl -i https://reqres.in/api/users/2
+
+
+Get only response
+------------------
+curl curl
+
+get response and headers
+------------------
+curl -i url
+
+get only headers
+------------------
+curl --head url
+curl -i url 
+Get Details of Client Server Interaction
+----------------------------------------
+-v verbose
+curl -v url
+
+Get Even more details and log all interaction to file
+--trace
+curl --trace logtrace.txt https://reqres.in/api/users/2
+
+Send Headers in Request
+------------------------
+-H
+curl -H "Accept:application/json"
+
+POST
+-d or --data
+curl -X POST -H "Accept:application/json" https://reqres.in/api/users -d {"name":"ram","job","leader"}"
+
+
+
+json server
+https://github.com/typicode/json-server
+
+node.js download 
+
+npm install -g json-server
+
+just go to command promt and check 
+node -v
+and then intall 
+npm install -g json-server
+
+ and run this command from command prompt
+
+json-server --watch db.json
+
+Link to access web service
+
+http://localhost:3000
+
+
+https://www.youtube.com/watch?v=8f9DfgRGOBo&list=PLhW3qG5bs-L90bZ8rru90WYxzTqtl9GMM&index=1
+
+
+
+
